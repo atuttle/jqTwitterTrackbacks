@@ -2,7 +2,7 @@
 
 I am not the original author of this code, but I was not pleased with the way the project was made available, so I'm copying the source to GitHub in the hopes that others might help improve the underlying source to be more useful to developers.
 
-The original appears to have been written by [Mike More](http://twitter.com/mike_more) and [released on his blog](http://www.moretechtips.net/2009/11/twitter-trackbacks-widget-jquery-plugin.html).
+The original appears to have been written by [Mike More](http://twitter.com/mike_more) and [released on his blog](http://www.moretechtips.net/2009/11/twitter-trackbacks-widget-jquery-plugin.html), with project hosting [on google code](http://code.google.com/p/twitter-trackbacks-widget/).
 
 ## Licensing
 
