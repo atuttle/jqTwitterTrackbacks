@@ -2,8 +2,7 @@
 
 I am not the original author of this code, but I was not pleased with the way the project was made available, so I'm copying the source to GitHub in the hopes that others might help improve the underlying source to be more useful to developers.
 
-The original appears to have been written by [Mike More](http://twitter.com/mike_more) and released on his blog, here:
-http://www.moretechtips.net/2009/11/twitter-trackbacks-widget-jquery-plugin.html
+The original appears to have been written by [Mike More](http://twitter.com/mike_more) and [released on his blog](http://www.moretechtips.net/2009/11/twitter-trackbacks-widget-jquery-plugin.html).
 
 ## Where do we go from here?
 
@@ -11,3 +10,7 @@ My hope is two-fold:
 
 1. De-obfuscate and unminify the source code to make it easy to maintain and improve, and
 2. Help to maintain and improve it.
+
+### How can I help?
+
+For now, the best way you can help is to fork the repository and unminify/de-obfuscate some code.
