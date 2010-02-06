@@ -4,6 +4,10 @@ I am not the original author of this code, but I was not pleased with the way th
 
 The original appears to have been written by [Mike More](http://twitter.com/mike_more) and [released on his blog](http://www.moretechtips.net/2009/11/twitter-trackbacks-widget-jquery-plugin.html).
 
+## Licensing
+
+The original code is licensed under the [Apache License, Version 2](http://www.apache.org/licenses/LICENSE-2.0). As such, this copy of it will use the same license.
+
 ## Where do we go from here?
 
 My hope is two-fold:
